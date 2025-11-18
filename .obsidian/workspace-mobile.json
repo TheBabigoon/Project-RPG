@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "0715f3a5f45847f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "090d5d4638b4edc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a399c831843a523a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft"
+            }
+          },
+          {
+            "id": "8d8e11b65a61963d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foundation"
+            }
+          },
+          {
+            "id": "bd9d338e96754c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft"
+            }
+          },
+          {
+            "id": "50d6539903af437b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Town/School.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "School"
+            }
+          },
+          {
+            "id": "97367878db1252d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Village.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Village"
+            }
+          },
+          {
+            "id": "d2b80d944524e84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Town.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Town"
+            }
+          },
+          {
+            "id": "9717d84b4f0a114e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Town.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Town"
+            }
+          },
+          {
+            "id": "ddc2b061445a86a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/Town.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Town"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f3c7f32eb981f4d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81c24d0586f1d641",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2cb5fe0112b92cc9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "150dca5a51ebd03f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c95627baeb642513",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "0d154e12c5b67855",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "c7691c454fde0d52",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {},
+          "icon": "longform",
+          "title": "Longform"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d65c4c52a3f4255b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "30ffc2512b4fb848",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Maps/Town.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "21216db6c3b964fb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Draft.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "562e0bfcc8f8aa3c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Draft.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "33e88572bed4b870",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ddc2b061445a86a2",
+  "lastOpenFiles": [
+    "README.md",
+    "/README.md",
+    "Village",
+    "Untitled 1",
+    "City",
+    "Draft.md",
+    "Maps/Town.md",
+    "Maps/City.md",
+    "Maps/Town/School.md",
+    "Maps/Town",
+    "Maps/Village.md",
+    "Character",
+    "Maps",
+    "Foundation.md",
+    "Untitled.base",
+    "Untitled Kanban.md",
+    "Untitled.canvas"
+  ]
+}
