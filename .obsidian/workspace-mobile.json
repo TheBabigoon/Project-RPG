@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Town.md",
+                "file": "Draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Town"
+              "title": "Draft"
             }
           }
         ],
@@ -294,13 +294,13 @@
   },
   "active": "ddc2b061445a86a2",
   "lastOpenFiles": [
+    "Maps/Town.md",
     "README.md",
     "/README.md",
     "Village",
     "Untitled 1",
     "City",
     "Draft.md",
-    "Maps/Town.md",
     "Maps/City.md",
     "Maps/Town/School.md",
     "Maps/Town",

@@ -1,13 +1,4 @@
 
-## Village
-- Population : Human, Elf
-
-###### Village Maps
-- Houses :
-- Farm :
-- Market :
-
-
 ## Races
 | Name      | Habitats                   | Skin Colors         | Skin Type |
 | --------- | -------------------------- | ------------------- | --------- |
