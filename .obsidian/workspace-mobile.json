@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Player.md",
+                "file": "Draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player"
+              "title": "Draft"
             }
           }
         ],
@@ -322,8 +322,8 @@
   },
   "active": "7d27246d4cb7fece",
   "lastOpenFiles": [
-    "Species.md",
     "Character/Player.md",
+    "Species.md",
     "Draft.md",
     "Maps/Village.md",
     "Maps/Town.md",

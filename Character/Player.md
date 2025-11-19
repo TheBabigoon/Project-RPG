@@ -32,10 +32,30 @@
 - Trauma
 - Physical Defense 
 - Magic Defense 
-- Allure : Appearances 
+- Allure : Appearance, Equipment
 
 #### Other Stats
-- Breasts 
+- Breasts Sensitivity 
+- Vaginal Sensitivity
+- Penile Sensitivity
+- Bottom Sensitivity
+
+- Breasts Growth
+- Breasts Can Grow : boolean
+- Breasts Can Shrink : boolean
+- Lactating : boolean
+- Milk Amount 
+- Milk Capacity
+
+- Penis Growth
+- Penis Can Grow : boolean
+- Penis Can Shrink : boolean
+- Semen Amount 
+- Semen Capacity 
+
+- Bottom Growth
+- Bottom Can Grow : boolean
+- Bottom Can Shrink : boolean
 
 #### Injuries 
 - Head
