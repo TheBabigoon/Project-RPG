@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft.md",
+                "file": "Character/Player.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft"
+              "title": "Player"
             }
           }
         ],
@@ -322,13 +322,13 @@
   },
   "active": "7d27246d4cb7fece",
   "lastOpenFiles": [
-    "Character/Player.md",
-    "Species.md",
-    "Draft.md",
-    "Maps/Village.md",
-    "Maps/Town.md",
     "Maps/City.md",
     "Maps/Town/School.md",
+    "Maps/Village.md",
+    "Maps/Town.md",
+    "Species.md",
+    "Draft.md",
+    "Character/Player.md",
     "README.md",
     "/README.md",
     "Village",

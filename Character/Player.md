@@ -69,6 +69,10 @@
 - Willpower 
 - Purity
 - Awareness 
+- Housekeeping
+- Tending
+- Dancing
+- Swimming 
 - Promiscuity 
 - Exhibitionist
 
@@ -81,6 +85,33 @@
 - Skulduggery (SKL): Pickpocketing and Lockpicking Succes Chance
 - Charisma (CHA) : Haggling Success Chance, Seduction 
 
+#### Traits
+- Trait Points (TP) :
+
+General
+- Chef : Boost Housekeeping Skill
+- Professional Dancer : Boost Dancing Skill
+- Farmer : Boost Tending Skill
+- Swimmer : Boost Swimming Skill
+
+Melee
+- Strong Hands : Boost STR
+- Lucky Fighter : Boost Critical Chance
+
+Ranged
+- Skilled Hands : Boost STR
+- Sniper : Boost Precision 
+
+Mage
+- Destruction : Boost Magic Damage
+- Spell Chanter : Boost MP
+- Healing Hands : Boost Healing Spells
+
+Sex
+- Slick Hands : Boost Hands
+- Succubus : Boost Seduction, Vaginal
+- Incubus : Boost Seduction, Penile
+
 #### Sex Skills
 - Seduction
 - Hands : Handjob, Touching
@@ -91,3 +122,18 @@
 - Penile
 - Vaginal 
 - Anal
+
+#### Menstruation Cycle
+- Running : boolean
+- Current Day :
+- Last Day :
+- Ovulating Day:
+
+#### Pregnancy 
+- Vaginal Slot
+- Baby Count
+- Baby Type
+
+- Anal Slot
+- Parasite Count
+- Parasite Type
