@@ -2,7 +2,7 @@ Town
 - Population : Human
 
 #### Town Maps
-- School :
+- [[School]] :
 - Town Square :
 - Park : 
 - Convenience Store :
